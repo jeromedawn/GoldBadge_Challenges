@@ -1,0 +1,16 @@
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\03_KomodoInsuranceBadges_Tests.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\03_KomodoInsuranceBadges_Tests.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\obj\Debug\03_KomodoInsuranceBadges_Tests.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\obj\Debug\03_KomodoInsuranceBadges_Tests.csproj.CopyComplete
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\obj\Debug\03_KomodoInsuranceBadges_Tests.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\obj\Debug\03_KomodoInsuranceBadges_Tests.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\03_KomodoInsuranceBadges.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\bin\Debug\03_KomodoInsuranceBadges.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges_Tests\obj\Debug\03_KomodoInsuranceBadges_Tests.csprojAssemblyReference.cache

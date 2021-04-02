@@ -1,0 +1,10 @@
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\bin\Debug\03_KomodoCafe_Console.exe.config
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\bin\Debug\03_KomodoCafe_Console.exe
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\bin\Debug\03_KomodoCafe_Console.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\obj\Debug\03_KomodoInsuranceBadges_Console.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\obj\Debug\03_KomodoInsuranceBadges_Console.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\obj\Debug\03_KomodoCafe_Console.exe
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\obj\Debug\03_KomodoCafe_Console.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\bin\Debug\03_KomodoInsuranceBadges.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\bin\Debug\03_KomodoInsuranceBadges.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoCafe_Console\obj\Debug\03_KomodoInsuranceBadges_Console.csproj.CopyComplete

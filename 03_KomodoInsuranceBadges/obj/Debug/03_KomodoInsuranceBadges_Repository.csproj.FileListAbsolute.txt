@@ -1,0 +1,6 @@
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\bin\Debug\03_KomodoInsuranceBadges.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\bin\Debug\03_KomodoInsuranceBadges.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\obj\Debug\03_KomodoInsuranceBadges_Repository.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\obj\Debug\03_KomodoInsuranceBadges_Repository.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\obj\Debug\03_KomodoInsuranceBadges.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\03_KomodoInsuranceBadges\obj\Debug\03_KomodoInsuranceBadges.pdb

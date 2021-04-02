@@ -1,0 +1,6 @@
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\bin\Debug\KomodoClaims_Repository.pdb
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\obj\Debug\02_KomodoClaims_Repository.csprojAssemblyReference.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\obj\Debug\02_KomodoClaims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.dll
+C:\Users\JD\Documents\SD 81 3-8-21\GoldBadgeChallenges\GoldBadgeChallenges\KomodoClaims_Repository\obj\Debug\KomodoClaims_Repository.pdb
